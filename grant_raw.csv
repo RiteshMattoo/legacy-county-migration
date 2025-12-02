@@ -1,0 +1,11 @@
+parcel_id,owner_first,owner_last,property_address,sale_price,sale_date,tax_status
+GR-3001,Henry,Adams,12 Oak Point,395000,2020-04-11,PAID
+GR-3002,Ella,Perez,44 Riverbend,420000,2021-10-05,PAID
+GR-3003,Arjun,Singh,67 Greenfields,380000,2019-11-30,UNPAID
+GR-3004,Aiden,Gomez,22 Mountain Pass,450000,2022-06-18,PAID
+GR-3005,Zoe,Bryant,88 Elm Grove,310000,2018-09-27,EXEMPT
+GR-3006,Daniel,Scott,35 Timber Trail,499500,2021-02-14,PAID
+GR-3007,Mila,Parker,91 Prairie Rd,460000,2020-07-09,PAID
+GR-3008,Carter,Ward,17 Woodland Ct,288000,2019-12-14,UNPAID
+GR-3009,Hannah,Cruz,53 Brookview Dr,397000,2022-05-21,PAID
+GR-3010,Samuel,Long,29 Aspen Hill,430000,2020-03-06,PAID

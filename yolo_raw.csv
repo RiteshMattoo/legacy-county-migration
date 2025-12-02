@@ -1,0 +1,11 @@
+parcel_id,owner_first,owner_last,property_address,sale_price,sale_date,tax_status
+YL-2001,Liam,Jones,101 Garden Ave,410000,2019/05/19,PAID
+YL-2002,Sophia,Wright,56 Orchard Rd,381000,2020/10/28,PAID
+YL-2003,Isabella,Moore,78 Pine Way,450000,2021/07/14,UNPAID
+YL-2004,Mason,Davis,11 Redwood Cir,290000,2018/12/30,PAID
+YL-2005,Lucas,Lewis,43 Forest St,372000,2019/03/05,PAID
+YL-2006,Emma,Hall,99 Blossom Ln,512000,2022/01/16,EXEMPT
+YL-2007,Ethan,Young,22 Meadow Rd,468000,2021/08/22,PAID
+YL-2008,Harper,Baker,74 Sunrise Blvd,399000,2020/11/11,UNPAID
+YL-2009,James,Harris,64 Walnut St,455000,2022/03/03,PAID
+YL-2010,Charlotte,King,85 Canyon Dr,420500,2019/09/25,PAID

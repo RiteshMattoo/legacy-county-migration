@@ -1,0 +1,11 @@
+parcel_id,owner_first,owner_last,property_address,sale_price,sale_date,tax_status
+SJ-1001,John,Smith,123 River Rd,350000,2021-01-10,PAID
+SJ-1002,Emily,Brown,88 Palm St,420000,2020-09-13,UNPAID
+SJ-1003,Michael,Clark,67 Maple Ave,389500,2022-03-18,PAID
+SJ-1004,Olivia,Lopez,45 Lake Blvd,512000,2019-06-29,PAID
+SJ-1005,Raj,Kumar,19 Sunset Dr,305000,2018-07-14,EXEMPT
+SJ-1006,Sophia,Lee,72 Oak Ln,298000,2021-11-09,PAID
+SJ-1007,Ava,Green,55 Hilltop,410000,2020-08-22,UNPAID
+SJ-1008,Noah,Miller,90 Valley St,270000,2022-04-02,PAID
+SJ-1009,Chris,Kim,12 Cedar Ct,360000,2019-01-30,PAID
+SJ-1010,David,Wilson,34 Birch Ln,450000,2018-05-19,EXEMPT
